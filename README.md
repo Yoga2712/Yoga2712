@@ -1,3 +1,9 @@
+I’m a dedicated Frontend Developer with experience in designing and developing modern, responsive, and interactive web interfaces. My expertise includes HTML5, CSS3, JavaScript (ES6+), and popular libraries/frameworks like React, Vue.js, and Tailwind CSS. I thrive in collaborative environments where creativity meets problem-solving.
+
+With a strong understanding of UI/UX principles and cross-browser compatibility, I enjoy turning design mockups into efficient and scalable front-end code. I also have experience working with REST APIs, version control (Git), and modern build tools like Webpack and Vite.
+
+I'm passionate about writing clean, maintainable code and continuously improving both user experience and development workflows.
+
 ## Hi there 👋
 
 <!--
