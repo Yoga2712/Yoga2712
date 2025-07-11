@@ -4,7 +4,7 @@ With a strong understanding of UI/UX principles and cross-browser compatibility,
 
 I'm passionate about writing clean, maintainable code and continuously improving both user experience and development workflows.
 
-## Hi there 👋
+
 
 <!--
 **Yoga2712/Yoga2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
